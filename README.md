@@ -1,0 +1,2 @@
+# templates-licences
+License templates
